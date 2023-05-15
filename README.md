@@ -8,7 +8,7 @@
 
 1. Download zip file (Release/Beta vX.X)
 
-2. unzip files
+2. Unzip files
 
 3. To use Encryption/Decryption feature you have to generate your own key using KeyGenerator.exe Just simply run it.
 <b>(You must protect the key and not lose it, otherwise you cannot decrypt the files!)</b>
