@@ -1,6 +1,6 @@
 # AES-256 Encryptor/
 
-![Opis obrazka](https://imgur.com/7msOKZq)
+![Opis obrazka](https://i.imgur.com/7msOKZq.png)
 
 
 # How to use?
