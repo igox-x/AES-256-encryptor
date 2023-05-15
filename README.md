@@ -10,7 +10,7 @@
 
 2. Unzip files
 
-3. To use Encryption/Decryption feature you have to generate your own key using KeyGenerator.exe Just simply click run it.
+3. To use Encryption/Decryption feature you have to generate your own key using KeyGenerator.exe Just simply click run to it.
 <b>(You must protect the key and not lose it, otherwise you cannot decrypt the files!)</b>
 
 4. Generated file (key.secure) must be in the same directory as aese.exe
