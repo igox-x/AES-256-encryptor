@@ -1,2 +1,1 @@
-# AES-256-encryptor
-
+# AES-256 Encryptor/Decryptor
