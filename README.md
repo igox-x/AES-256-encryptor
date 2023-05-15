@@ -6,4 +6,9 @@
 
 <h2 align="left">How to use?</h2>
 
+1. Pierwszy element
+2. Drugi element
+3. Trzeci element
+
+
 ###
