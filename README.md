@@ -1,6 +1,6 @@
 # AES-256 Encryptor/Decryptor
 
-![AESlogo](https://o.remove.bg/downloads/f0479a75-8aea-4f4b-b902-041f0d741f61/R-removebg-preview.png)
+![AESPIC](https://o.remove.bg/downloads/f0479a75-8aea-4f4b-b902-041f0d741f61/R-removebg-preview.png)
 
 ###
 
@@ -43,7 +43,3 @@ the console should give a message:
 File filename decrypted.
 ```
 <h3>Remember that encrypted files have the ending .aese added. When decrypting, you must remember to enter the full name of the file with this ending for it to work</h3>
-
-###
-
-<h4>Custom key</h4>
