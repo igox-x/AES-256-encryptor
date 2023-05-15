@@ -6,9 +6,9 @@
 
 <h2 align="left">How to use?</h2>
 
-1. Pierwszy element
-2. Drugi element
-3. Trzeci element
+1. Download zip file (Release/Beta vX.X)
+2. unzip files
+3. To use Encryption/Decryption fature you have to generate your own key
 
 
 ###
