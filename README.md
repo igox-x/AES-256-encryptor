@@ -10,9 +10,36 @@
 
 2. unzip files
 
-3. To use Encryption/Decryption feature you have to generate your own key using KeyGenerator.exe 
+3. To use Encryption/Decryption feature you have to generate your own key using KeyGenerator.exe Just simply run it.
 <b>(You must protect the key and not lose it, otherwise you cannot decrypt the files!)</b>
-4. 
 
+4. Generated file (key.secure) must be in the same directory as aese.exe
+
+5. Both files (aese.exe and key.secure) must be in the same directory as the file you want to encrypt or decrypt
 
 ###
+
+6. To run <b>encryption:</b>
+
+```shell
+aese filename
+```
+the console should give a message:
+
+```shell
+File filename encrypted.
+```
+
+###
+
+7. To run <b>decryption:</b>
+
+```shell
+aese filename --decrypt
+```
+the console should give a message:
+
+```shell
+File filename decrypted.
+```
+
