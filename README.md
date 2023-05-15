@@ -42,4 +42,4 @@ the console should give a message:
 ```shell
 File filename decrypted.
 ```
-
+<h3>Remember that encrypted files have the ending .aese added. When decrypting, you must remember to enter the full name of the file with this ending for it to work</h3>
