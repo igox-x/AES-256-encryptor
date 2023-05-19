@@ -1,6 +1,6 @@
 # AES-256 Encryptor/Decryptor
 
-![AESPIC](https://o.remove.bg/downloads/f0479a75-8aea-4f4b-b902-041f0d741f61/R-removebg-preview.png)
+![AESPIC](https://i.imgur.com/x3MADsE.png)
 
 ###
 
