@@ -4,8 +4,11 @@
 
 ###
 
+<h1>[DOWNLOAD](https://github.com/igox-x/AES-256-encryptor/releases)</h1>
 
-# Beta v0.1
+
+#
+
 
 <h2 align="left">How to use?</h2>
 
