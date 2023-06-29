@@ -7,7 +7,7 @@
 <h1></h1>
 
 
-<h1>[![DOWNLOAD](https://github.com/igox-x/AES-256-encryptor/releases)</h1>
+<h1>[!DOWNLOAD](https://github.com/igox-x/AES-256-encryptor/releases)</h1>
 
 
 #
