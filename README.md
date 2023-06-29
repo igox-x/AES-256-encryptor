@@ -4,8 +4,9 @@
 
 ###
 
+<h1><a href="https://github.com/igox-x/AES-256-encryptor/releases">DOWNLOAD</a></h1>
 
-# Beta v0.1
+###
 
 <h2 align="left">How to use?</h2>
 
