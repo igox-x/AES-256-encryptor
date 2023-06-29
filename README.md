@@ -19,7 +19,7 @@
 
 4. Generated file (key.secure) must be in the same directory as aese.exe
 
-5. Both files (aese.exe and key.secure) must be in the same directory as the file you want to encrypt or decrypt
+5. Both files (aese.exe [or aes] and key.secure) must be in the same directory as the file you want to encrypt or decrypt
 
 ###
 
